@@ -25,7 +25,7 @@
 <br/>
 
 ---
-## `> SYSTEM.IDENTITY`
+## `> SYSTEM IDENTITY`
 
 ```yaml
 USER:        Beatriz
@@ -49,19 +49,26 @@ STACK:
 
 <div align="center">
 
-`FIVEM` • `SOFTWARE` • `AUTOMATION` • `AI` • `PERFORMANCE`
+`FIVEM DEVELOPMENT` • `SOFTWARE ENGINEERING` • `AUTOMATION` • `WEB SYSTEMS`
 
-<br/><br/>
 
-> **Transformando ideias em código, sistemas e experiências digitais.**
+<h3 align="center">
+  Transformando ideias em código, sistemas e experiências digitais.
+</h3>
 
+<br/>
+
+<br/>
+
+<div align="center">
+  <img src="./black-cat.png" width="600" alt="Black Cat"/>
 </div>
 
 <br/>
 
 ---
 
-## `> TECH.STACK`
+## `> TECH STACK`
 
 <div align="center">
 
@@ -93,7 +100,11 @@ STACK:
 
 ---
 
-## `> FIVEM.DEVELOPMENT`
+---
+
+<div align="left">
+
+## `> FIVEM DEVELOPMENT`
 
 <div align="center">
 
@@ -105,6 +116,8 @@ STACK:
 </div>
 
 <br/>
+
+<div align="left">
 
 ```lua
 local FiveM = {
@@ -118,11 +131,18 @@ local FiveM = {
         "Optimized Resources"
     },
 
-    stack = { "Lua", "JavaScript", "HTML", "CSS" }
+    stack = {
+        "Lua",
+        "JavaScript",
+        "HTML",
+        "CSS"
+    }
 }
 
 FiveM:build()
 ```
+
+</div>
 
 <div align="center">
 
@@ -132,7 +152,10 @@ FiveM:build()
 
 <br/>
 
+</div>
+
 ---
+
 
 ## `> DEV.TOOLS`
 
@@ -248,6 +271,8 @@ Desenvolvimento de ferramentas, integrações e automações para simplificar pr
 
 ---
 
+<div align="left">
+
 ## `> CURRENT.ACTIVITY`
 
 ```console
@@ -283,7 +308,13 @@ $ next
 SYSTEM STATUS: ONLINE █
 ```
 
-## `> GITHUB.STATS`
+</div>
+
+<br/>
+
+---
+
+## `> GITHUB STATS`
 
 <div align="center">
 
@@ -302,17 +333,6 @@ SYSTEM STATUS: ONLINE █
 ---
 
 
-## `> ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=biaymh&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
-
-</div>
-
-<br/>
-
----
 
 ## `> CONTRIBUTIONS`
 
@@ -329,30 +349,39 @@ SYSTEM STATUS: ONLINE █
 <br/>
 
 ---
-
 ## `> CONNECT`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
+  </a>
 
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=A855F7"/>
-</a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=A855F7"/>
+  </a>
 
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=A855F7"/>
-</a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+  </a>
 
-<a href="https://github.com/biaymh">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
+  <a href="https://github.com/biaymh" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=A855F7"/>
+  </a>
+</p>
+
+<br/>
+
+<sub>Open to connections, collaborations and interesting projects.</sub>
 
 </div>
 
-<br/><br/>
+<br/>
+
+---
+
+---
 
 <div align="center">
 
@@ -361,7 +390,7 @@ SYSTEM STATUS: ONLINE █
 │                                                               │
 │        "THE FUTURE ISN'T PREDICTED. IT'S PROGRAMMED."         │
 │                                                               │
-│                        // BEATRIZ.DEV                          │
+│                         — BEATRIZ                             │
 │                                                               │
 └───────────────────────────────────────────────────────────────┘
 ```
